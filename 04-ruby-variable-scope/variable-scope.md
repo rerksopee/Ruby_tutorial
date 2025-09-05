@@ -62,7 +62,7 @@
        PI = 3.14    // PI เป็น Constant
 
 ---
-## เปรียบเทียบวิธีการใช้ Scope ขอภาษา C,JAVA,PYTHON
+## เปรียบเทียบวิธีการใช้ Scope ขอภาษา C,Java,Python
 
 - *Local Variable*
   
@@ -185,7 +185,7 @@
        // ถ้า defined? คืนค่าเป็น "local-variable", "instance-variable", "global-variable"  หมายถึงตัวแปรนั้นมีอยู่และ scope ตามที่แจ้ง
        // ถ้า defined? คืนค่า nil หมายถึง ตัวแปรยังไม่ถูกประกาศใน scope 
 
-## เปรียบเทียบ การตรวจจับ scope ของตัวแปร ระหว่าง Ruby, C, Java, Python
+## เปรียบเทียบ การตรวจจับ scope ของตัวแปร ระหว่าง ภาษาC,Java,Python
 
   C
 
