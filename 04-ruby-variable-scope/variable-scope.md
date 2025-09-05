@@ -206,6 +206,25 @@
    -  ตรวจสอบได้ด้วย locals(), globals(), hasattr(obj, "attr")
 
 
+  ---
+  ## คลิปนำเสนอ
+
+
+
+  ---
+  ## Presentation 
+
+
+
+
+  ---
+  ## Reference
+   - Smyth, N. (2016, October 27). Ruby Variable Scope. Techotopia. https://www.techotopia.com/index.php/Ruby_Variable_Scope
+   - GeeksforGeeks. (2024, May 7). Scope of a variable. https://www.geeksforgeeks.org/dsa/scope-of-a-variable
+   - GeeksforGeeks. (2025, July 23). Variable scope in Java. https://www.geeksforgeeks.org/java/variable-scope-in-java
+   - GeeksforGeeks. (2025, July 12). Python Scope of Variables. https://www.geeksforgeeks.org/python/python-scope-of-variables/
+
+
 
 
 
