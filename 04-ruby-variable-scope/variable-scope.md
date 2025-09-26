@@ -209,12 +209,13 @@
   ---
   ## คลิปนำเสนอ
 
-
+  https://www.youtube.com/watch?v=RIfxStgjX7I
 
   ---
   ## Presentation 
 
 
+  [640710144-phonchanok.pdf](https://github.com/user-attachments/files/22552119/640710144-phonchanok.pdf)
 
 
   ---
